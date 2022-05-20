@@ -4,13 +4,14 @@
 
 
 #W8D5[3] = {
-		arugments_exercise.
-		prootypal_exercise.
+		arugments_exercise,
+		prootypal_exercise,
 		flappy_bird
 }
 
 
 Authors: 
+
 App/acc
 
 Michael R. : Github: https://github.com/miker704/
